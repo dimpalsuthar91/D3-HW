@@ -1,5 +1,3 @@
-// @TODO: YOUR CODE HERE!
-// @TODO: YOUR CODE HERE!
 var padding = 60;
 var w = 900;
 var h = 600;
